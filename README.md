@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Next.js, Docker, MongoDB, React Native, Expo**
 
-💬 Ask me about **Flask, React, Expo... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Flask, React, Expo... or anything [here](https://github.com/fkvasir/fkvasir/issues)**
 
 
  </div>
