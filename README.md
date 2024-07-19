@@ -16,7 +16,8 @@
 
 💬 Ask me about **Flask, React, Expo... or anything [here](https://github.com/fkvasir/fkvasir/issues)**
 
-
+📞 
+👇
  </div>
  
 <div align="center"> 
