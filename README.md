@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fkvasir.fkvasir" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fkvasir" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fulgent+Kvasir!;" />
 </h1>
 
-<h3 align="center">An aspiring fullstack software developer from Philippines ᴘʜ</h3>
+<h3 align="center">A fullstack software developer from Philippines ᴘʜ</h3>
 
 <br/>
 
