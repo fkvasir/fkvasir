@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fkvasir" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fkvasir.fkvasir" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fulgent+Kvasir!;" />
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bitbucket,bash,figma,git,cpp,html,css,vscode,github,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,bitbucket,bash,figma,postgres,git,cpp,html,css,vscode,github,tailwind,bootstrap" />
     <img src="https://skillicons.dev/icons?i=nextjs,htmx,qt,postman,python,javascript,typescript,mongodb,c,java,mysql,flask" /><br>
 </div>
 
