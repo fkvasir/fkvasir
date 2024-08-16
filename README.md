@@ -33,7 +33,7 @@
 
  <hr/>
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bitbucket,figma,postgres,git,vscode,github,tailwind,bootstrap,flask,mongodb,postman" />
