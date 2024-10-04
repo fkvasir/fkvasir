@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Mobile Application**
+ 🔭 I’m currently working as a **Mobile Application Developer**
  
- 🌱 I’m currently learning **Next.js, Docker, MongoDB, React Native, Expo**
+ 🌱 I’m currently learning **Next.js, Docker, AWS, Vercel, Expo**
 
-💬 Ask me about **Flask, React, Expo... or anything [here](https://github.com/fkvasir/fkvasir/issues)**
 
 📞 
 👇
