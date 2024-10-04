@@ -32,9 +32,9 @@
 
  <hr/>
  
-<h2 align="left">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bitbucket,figma,postgres,git,vscode,github,tailwind,bootstrap,flask,mongodb,postman" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,bash,cpp,htmx,c,mysql,html,css," /><br>
 </div>
@@ -52,9 +52,9 @@
 
 <hr/> --->
 <hr/>
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 <br>
-<div align=left>
+<div align=center>
   <br>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fkvasir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
