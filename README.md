@@ -12,9 +12,6 @@
  
  🔭 I’m currently working as a **Web Developer**
 
-
-📞 
-👇
  </div>
  
 <div align="center"> 
