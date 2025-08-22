@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **Mobile Application Developer**
- 
- 🌱 I’m currently learning **Next.js, Docker, AWS, Vercel, Expo**
+ 🔭 I’m currently working as a **Web Developer**
 
 
 📞 
