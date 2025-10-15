@@ -10,7 +10,7 @@
 
 <div align="center">
  
- I’m currently working as a **Web Developer**
+ I’m currently working as a **Full-Stack Web Developer**
 <br/>
 <a href="https://fkvasir.vercel.app" target="_blank">
   My Portfolio
